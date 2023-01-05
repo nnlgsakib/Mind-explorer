@@ -1,6 +1,6 @@
 # MIND Explorer 
 
-<b>Live Version: [mindchaincoin.net](https://mindchaincoin.net)</b>
+<b>Live Version: [mindscan.info](https://mindscan.info)</b>
 
 
 
