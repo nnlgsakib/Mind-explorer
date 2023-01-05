@@ -1,4 +1,4 @@
-# ESN Explorer 
+# MIND Explorer 
 
 <b>Live Version: [mindchaincoin.net](https://mindchaincoin.net)</b>
 
@@ -42,10 +42,10 @@ Basic settings:
     "patch":        true,
     "patchBlocks":  100,
     "settings": {
-        "symbol": "ESN",
-        "name": "Ethersocial Network",
-        "title": "Ethersocial Network Block Explorer",
-        "author": "Elaine"
+        "symbol": "MIND",
+        "name": "MIND Network",
+        "title": "MIND Network Block Explorer",
+        "author": "MIND authority"
     }
 }
 
